@@ -1,2 +1,2 @@
-idf_component_register(SRCS "Buttons-test.c"
+idf_component_register(SRCS "buttons-test.c"
                     INCLUDE_DIRS ".")
