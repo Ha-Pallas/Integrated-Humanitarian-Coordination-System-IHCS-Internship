@@ -153,7 +153,7 @@ Standalone test of the debounced button-reading approach later extracted into `c
 
 Standalone test of the LCD driver later extracted into `components/lcd_i2c`. Displays a boot message and an incrementing counter.
 
-**Source:** `phase2_bringup/lcd_test/main/LCD-test.c`
+**Source:** `phase2_bringup/lcd_test/main/lcd-test.c`
 
 ### `spiffs_test` — Flash File System
 
