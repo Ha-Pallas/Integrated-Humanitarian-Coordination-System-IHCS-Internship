@@ -141,7 +141,7 @@ The simplest possible ESP-IDF application — configures an LED GPIO as output a
 
 Prints a boot message, then an incrementing "Heartbeat" counter every second over UART0.
 
-**Source:** `phase2_bringup/uart_output/main/UART-output.c`
+**Source:** `phase2_bringup/uart_output/main/uart-output.c`
 
 ### `buttons_test` — GPIO Input with Debounce
 
