@@ -147,7 +147,7 @@ Prints a boot message, then an incrementing "Heartbeat" counter every second ove
 
 Standalone test of the debounced button-reading approach later extracted into `components/buttons`.
 
-**Source:** `phase2_bringup/buttons_test/main/Buttons-test.c`
+**Source:** `phase2_bringup/buttons_test/main/buttons-test.c`
 
 ### `lcd_test` — I2C LCD Driver
 
